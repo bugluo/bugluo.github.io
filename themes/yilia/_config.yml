@@ -21,8 +21,8 @@ subnav:
 
 # Content
 excerpt_link: more
-fancybox: true
-mathjax: true
+fancybox: false
+mathjax: false
 
 # 是否开启动画效果
 animate: true
@@ -35,7 +35,7 @@ google_analytics: ''
 favicon: /favicon.ico
 
 #你的头像url
-avatar: https://raw.githubusercontent.com/bugluo/bugluo.github.io/master/images/daboluo.png
+avatar: https://raw.githubusercontent.com/bugluo/blog/master/images/doubleluo.png
 #是否开启分享
 share: false
 #是否开启多说评论，填写你在多说申请的项目名称 duoshuo: duoshuo-key
