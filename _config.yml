@@ -6,7 +6,7 @@
 title: Hexo
 subtitle:
 description:
-author: John Doe
+author: doubleluo（大菠萝）
 language:
 timezone:
 
@@ -68,6 +68,6 @@ theme: yilia
 # Deployment
 ## Docs: http://hexo.io/docs/deployment.html
 deploy:
-  type: github
-  repository: https://github.com/bugluo/bugluo.github.io.git
+  type: git
+  repository: git@github.com:bugluo/bugluo.github.io.git
   branch: master
