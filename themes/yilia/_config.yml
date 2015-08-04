@@ -17,7 +17,7 @@ subnav:
   #twitter: "#"
   #linkedin: "#"
 
-rss: /atom.xml
+#rss: /atom.xml
 
 # Content
 excerpt_link: more
@@ -43,6 +43,7 @@ share: false
 duoshuo: false
 #是否开启云标签
 tagcloud: false
+
 
 #是否开启友情链接
 #不开启——
