@@ -133,6 +133,6 @@ var Instagram = (function(){
 		}
 	}
 })();
-$(function(){
-	Instagram.init();
-})
+// $(function(){
+// 	Instagram.init();
+// })
